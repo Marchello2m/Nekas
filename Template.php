@@ -97,5 +97,5 @@
 
 
 <br><br>
-
+<div id="weatherapi-weather-widget-2"></div><script type='text/javascript' src='https://www.weatherapi.com/weather/widget.ashx?loc=1475702&wid=2&tu=1&div=weatherapi-weather-widget-2' async></script><noscript><a href="https://www.weatherapi.com/weather/q/riga-riga-latvia-1475702" alt="Hour by hour Riga, Riga, Latvia weather">10 day hour by hour Riga, Riga, Latvia weather</a></noscript>
 </html>
