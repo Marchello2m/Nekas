@@ -1,0 +1,23 @@
+h3{
+    text-align: center;
+}
+main container{
+padding: 40px;
+
+}
+temperature{
+
+      font-size: 2em;
+  }
+.main {
+    margin-top: 50px;
+}
+t{
+    font-size: 14px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
